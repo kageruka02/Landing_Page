@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.Header-Signup{
+    padding: 20px 17% 100px  17%;
+    background: #1f2937;
+
+}
+.headerlogo{
+    color: #f9faf8;
+    font-size: 24px;
+  
+}
+.header{
+    gap: 47%;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+}
+.header-links{
+    /* gap: 3%; */
+    font-size: 15px;
+    flex: 2;
+    display: flex;
+    justify-content: space-between;
+}
+.introduction{
+    color: #f9faf8;
+    display: flex;
+    margin-top: 50px;
+
+}
+.paragraph2{
+    font-weight: 300;
+}
+.ThisWebsite{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.placeholder{
+    height: 200px;
+    flex: 6;
+    background-color:   rgb(147, 146, 146);
+    color: white;
+    margin-left: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.website{
+    flex: 5;
+}
+.signupbutton{
+    height: 30px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 5px;
+    width: 100px;
+    padding: 0 auto;
+}
+.subtext{
+      padding: 50px 17% 100px  17%;
+
+}
+.randomInformation{
+    font-weight: 800;
+    font-size:36px;
+    text-align: center;
+}
+.Rectangle{
+    width: 150px;
+
+}
+.boxes{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15%;
+}
+.blueRectangle{
+    width: 100%;
+    height: 160px;
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+}
+.description{
+
+text-align: center;
+}
+.Call{
+    padding: 50px 20% 50px  17%;
+}
+.quotediv{
+    background-color: #e5e7eb;
+    padding: 100px 27% 100px  22%;
+}
+.quoteParagraph{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+.Thor{
+    font-size: 18px;
+    text-align: right;
+    font-weight:600;
+    margin-right: 4%;
+}
+.signupDiv{
+     padding: 50px 13% 50px  7%;
+     background-color: #3882f6;
+     color:   #f9faf8;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     border-radius: 8px;
+}
+.signUp{
+       height: 30px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    width: 100px;
+    padding: 0 auto;
+    border-style: solid;
+
+}
+.footer{
+     background: #1f2937;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+     color: white;
+     height: 70px;
+     
+}
